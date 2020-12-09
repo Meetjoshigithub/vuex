@@ -1,0 +1,31 @@
+  .Banner {
+    background-color: black;
+    color: white;
+    padding: 12px;
+  }
+  h3 {
+    margin: 40px 0 0;
+  }
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  a {
+    color: #42b983;
+  }
+  .envelope svg{
+    font-size:2rem;
+  }
+  .header {
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+  }
+  .headerContent {
+    font-size: 16px;
+    text-align: left;
+  }
